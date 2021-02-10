@@ -1,0 +1,13 @@
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.exe
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.deps.json
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.json
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.runtimeconfig.dev.json
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.dll
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\bin\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csprojAssemblyReference.cache
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfoInputs.cache
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.AssemblyInfo.cs
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.csproj.CoreCompileInputs.cache
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.dll
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.pdb
+A:\C Sharp\FirstConsoleApp\FirstConsoleApp\obj\Debug\netcoreapp3.1\FirstConsoleApp.genruntimeconfig.cache
