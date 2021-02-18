@@ -1,0 +1,13 @@
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.csprojAssemblyReference.cache
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.AssemblyInfoInputs.cache
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.AssemblyInfo.cs
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.csproj.CoreCompileInputs.cache
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.exe
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.deps.json
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.runtimeconfig.json
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.runtimeconfig.dev.json
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.dll
+A:\C Sharp\ToastManagerApp\bin\Debug\netcoreapp3.1\ToastManagerApp.pdb
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.dll
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.pdb
+A:\C Sharp\ToastManagerApp\obj\Debug\netcoreapp3.1\ToastManagerApp.genruntimeconfig.cache
