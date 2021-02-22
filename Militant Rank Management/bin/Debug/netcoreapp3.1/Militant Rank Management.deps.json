@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Militant Rank Management/1.0.0": {
+        "runtime": {
+          "Militant Rank Management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Militant Rank Management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.exe
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.deps.json
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.runtimeconfig.json
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.runtimeconfig.dev.json
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.dll
+A:\C Sharp\Militant Rank Management\bin\Debug\netcoreapp3.1\Militant Rank Management.pdb
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.csprojAssemblyReference.cache
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.AssemblyInfoInputs.cache
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.AssemblyInfo.cs
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.csproj.CoreCompileInputs.cache
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.dll
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.pdb
+A:\C Sharp\Militant Rank Management\obj\Debug\netcoreapp3.1\Militant Rank Management.genruntimeconfig.cache
